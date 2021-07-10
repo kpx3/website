@@ -23,7 +23,7 @@ The four I’s stand for
 
 ## Team
 
-[Ayush Raj](https://www.linkedin.com/in/ayushraj159/) 
-[Kautilya Pandey](https://www.linkedin.com/in/kautilya-pandey-880b13197/)
-[Nikhitha Mekala](https://www.linkedin.com/in/nikhitha-mekala-530867196/)
-[Piyanshu Jain](https://www.linkedin.com/in/piyanshu-jain-2a2a19196/)
+- [Ayush Raj](https://www.linkedin.com/in/ayushraj159/) 
+- [Kautilya Pandey](https://www.linkedin.com/in/kautilya-pandey-880b13197/)
+- [Nikhitha Mekala](https://www.linkedin.com/in/nikhitha-mekala-530867196/)
+- [Piyanshu Jain](https://www.linkedin.com/in/piyanshu-jain-2a2a19196/)
